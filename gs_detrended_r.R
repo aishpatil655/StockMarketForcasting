@@ -15,7 +15,7 @@ library(splines)
 library(FinTS)
 
 
-# Load data
+# Load data from csv
 data <- read.csv("all_stocks_5yr.csv")
 
 # Filter data for GS
